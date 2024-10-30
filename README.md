@@ -1,1 +1,1 @@
-# E-school.com
+# E-School
